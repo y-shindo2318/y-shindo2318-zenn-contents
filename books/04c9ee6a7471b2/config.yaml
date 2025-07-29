@@ -1,0 +1,15 @@
+title: "新人エンジニア向けNode.js開発環境構築ガイド"
+summary: "プログラミング経験1年未満の新人エンジニア向けに、Windows環境でのNode.js開発環境構築から実践的な開発ワークフローまでを段階的に学習できる実践ガイド"
+topics: ["nodejs", "環境構築", "初心者", "windows", "開発環境"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - chapter01-basics
+  - chapter02-install
+  - chapter03-vscode
+  - chapter04-project
+  - chapter05-debug-test
+  - chapter06-webapp
+  - chapter07-tools
+  - chapter08-troubleshooting
